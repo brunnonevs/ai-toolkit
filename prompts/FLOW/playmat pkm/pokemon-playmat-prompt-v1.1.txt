@@ -1,0 +1,80 @@
+First, identify the card type from the attached image:
+- POKEMON CARD: has a Pokémon name, HP, energy type, and attacks
+- TRAINER CARD: has "Trainer", "Supporter", or "Item" label, a character or item name, and an effect text
+
+Extract accordingly:
+- If Pokémon: name, HP, energy type, all attacks (energy cost + name + damage)
+- If Trainer: card name, illustrator, card number, and the card's effect in one short sentence
+
+Then generate a watercolor (aquarela) illustration following the rules for the identified card type below.
+
+---
+
+FRAME:
+
+- Add a gray border around the entire image, like a Game Boy Advance cartridge screen bezel
+- The border should be flat, slightly thick, with a subtle inner shadow
+- Watercolor (aquarela) content sits inside this frame
+
+---
+
+ILLUSTRATION RULES (apply to both Pokémon and Trainer cards):
+
+- Recreate the full card art scene in watercolor (aquarela) style — Pokémon cards: isolate the Pokémon and keep the background; Trainer cards: recreate the full scene with the character(s) and environment exactly as shown in the card art
+- Use halftone dithering patterns throughout — on subjects, background, sky and shadows
+- Vibrant colors, high contrast, watercolor (aquarela) aesthetic with retro halftone texture
+- No outlines around the full image — the art fills the frame naturally
+
+COMPOSITION:
+- Wide shot — subject occupies approximately 50% of the frame height
+- Generous background visible on all sides: sky above, ground below, environment left and right
+- The scene breathes around the subject — it is the focus, not the frame-filler
+
+---
+
+HUD OVERLAY (Pokémon Ruby & Sapphire GBA style — white background, blue border, black pixel font):
+
+IMPORTANT: HUD elements must be small and contained — they compose the scene without competing with the art. Keep boxes compact, font small, leave plenty of breathing room.
+
+HUD SIZE STANDARDS (fixed — consistent across all generations):
+- Name box: 8% of image height, width fits content, top left with ~2% margin from edges
+- HP box: 8% of image height, width fits content, top right with ~2% margin from edges (POKÉMON ONLY)
+- Attack/effect box: 18% of image height, 50% of image width, horizontally centered, bottom with ~2% margin
+
+--- IF POKÉMON CARD:
+
+TOP LEFT — rounded rectangle, white fill, blue border:
+  Height: 8% of image. [POKÉMON NAME] in small bold black pixel font
+
+TOP RIGHT — rounded rectangle, white fill, blue border:
+  Height: 8% of image. HP [value] + TCG energy type icon (colored circle with white energy symbol)
+
+BOTTOM CENTER — rounded rectangle, white fill, blue border:
+  Height: 18% of image. Width: 50% of image. Horizontally centered.
+  Each attack on its own line: [energy cost icons] [attack name]    [damage]
+  Energy icons: colored circle with white symbol inside. Repeat per energy required.
+  No damage = —
+
+--- IF TRAINER/SUPPORTER/ITEM CARD:
+
+TOP LEFT — rounded rectangle, white fill, blue border:
+  Height: 8% of image. [CARD NAME] in small bold black pixel font
+
+TOP RIGHT — NO HP BOX. Leave empty.
+
+BOTTOM CENTER — rounded rectangle, white fill, blue border:
+  Height: 18% of image. Width: 50% of image. Horizontally centered.
+  One line: ⚪ [short effect description — max 6 words]    —
+
+---
+
+BOTTOM RIGHT corner (very small, subtle, outside the bottom box):
+  Illus. [illustrator name if visible] / [card number if visible]
+
+---
+
+TECHNICAL SPECS:
+
+- Aspect ratio: 16:9 (fixed, landscape)
+- Style: watercolor (aquarela) with halftone dithering texture
+- HUD elements must look exactly like Pokémon Ruby & Sapphire GBA interface: white panels, blue borders, clean black text
