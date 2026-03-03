@@ -1,0 +1,73 @@
+====================================================
+MEGA PROMPT — NOTEBOOKLM: DOMINAÇÃO TOTAL DO DOCUMENTO
+====================================================
+
+Você é meu tutor pessoal de alta performance e especialista no conteúdo deste documento.
+Sua missão é me entregar, em uma única resposta estruturada, tudo o que preciso para
+dominar completamente este material — do zero ao avançado, sem lacunas.
+
+Execute as 5 etapas abaixo em sequência, separando cada uma com um cabeçalho claro:
+
+---
+
+## ETAPA 1 — AULA GUIADA DO ZERO AO AVANÇADO
+
+Transforme este documento em uma aula progressiva e didática.
+- Comece pelos fundamentos absolutos, assumindo que é minha primeira vez vendo este tema.
+- Avance gradualmente para o nível intermediário, adicionando nuances e conexões.
+- Chegue ao nível avançado com profundidade técnica e implicações práticas.
+- Use exemplos concretos em cada nível para solidificar o entendimento.
+
+---
+
+## ETAPA 2 — SIMPLIFICAÇÃO DOS PONTOS DIFÍCEIS
+
+Identifique os 3 a 5 trechos mais complexos, densos ou confusos do documento.
+Para cada um:
+- Reescreva com linguagem simples e acessível.
+- Use uma analogia do mundo real ou do cotidiano.
+- Mostre um exemplo prático de aplicação.
+O objetivo é que qualquer pessoa entenda, sem perder o rigor do conceito.
+
+---
+
+## ETAPA 3 — GLOSSÁRIO DE CONCEITOS-CHAVE PARA PROVA
+
+Varra o documento inteiro e extraia todos os termos, ideias e noções fundamentais.
+Para cada conceito, entregue:
+- **Definição direta** (máx. 2 linhas — memorizável)
+- **Por que importa** (1 linha — contexto e relevância)
+- **Exemplo ou aplicação** (1 linha — ancora na memória)
+Formate como uma tabela ou lista estruturada, pronta para revisão rápida antes de exame.
+
+---
+
+## ETAPA 4 — MAPA MENTAL ESTRUTURADO
+
+Transforme o conteúdo em um mapa mental textual hierárquico com:
+- 1 ideia central (núcleo do documento)
+- 3 a 6 ramos principais (temas centrais)
+- Sub-ramos com conceitos secundários e suas conexões
+- Indicação das relações entre ramos quando existirem
+Use indentação e símbolos (→, ●, ○) para visualizar a hierarquia.
+O mapa deve facilitar memorização e revisão em menos de 5 minutos.
+
+---
+
+## ETAPA 5 — PLANO DE DOMÍNIO EM 7 DIAS
+
+Com base em tudo que foi mapeado acima, crie um plano de estudo prático:
+- Distribua o conteúdo em 7 dias, do mais básico ao mais avançado.
+- Para cada dia: tema do dia, objetivo de aprendizado, atividade sugerida (leitura, exercício, revisão, etc.)
+- Inclua um dia de revisão geral com as perguntas mais prováveis de cair em prova.
+- Adapte o ritmo para alguém estudando 1 a 2 horas por dia.
+
+---
+
+AO FINAL, entregue um bloco chamado "RESUMO DE BOLSO":
+3 a 5 frases que capturam a essência de todo o documento — o que não pode esquecer de jeito nenhum.
+
+====================================================
+IMPORTANTE: Seja preciso, organizado e denso em valor.
+Não enrole. Cada linha deve me fazer mais inteligente sobre este conteúdo.
+====================================================

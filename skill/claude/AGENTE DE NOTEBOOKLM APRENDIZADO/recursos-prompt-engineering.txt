@@ -1,0 +1,86 @@
+================================================================
+  RECURSOS PARA ESTUDAR PROMPT ENGINEERING
+  (Para usar no NotebookLM ou consulta direta)
+================================================================
+
+----------------------------------------------------------------
+1. ANTHROPIC — Documentação Oficial de Prompt Engineering
+----------------------------------------------------------------
+Nome: Prompt Engineering Overview (Anthropic)
+Link: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+
+Nome: Anthropic Cookbook (exemplos práticos)
+Link: https://github.com/anthropics/anthropic-cookbook
+
+Nome: Guia completo de documentação Anthropic/Claude
+Link: https://docs.anthropic.com
+
+----------------------------------------------------------------
+2. PROMPT ENGINEERING GUIDE — DAIR.AI
+----------------------------------------------------------------
+Nome: Prompt Engineering Guide (site completo)
+Link: https://www.promptingguide.ai
+
+Nome: Repositório GitHub (para baixar em PDF/MD)
+Link: https://github.com/dair-ai/Prompt-Engineering-Guide
+
+Nome: Seção específica de geração de imagem
+Link: https://www.promptingguide.ai/applications/text-to-image
+
+----------------------------------------------------------------
+3. MIDJOURNEY — Documentação Oficial
+----------------------------------------------------------------
+Nome: Midjourney Docs (referência de parâmetros e prompts)
+Link: https://docs.midjourney.com
+
+Nome: Midjourney Quick Start Guide
+Link: https://docs.midjourney.com/docs/quick-start
+
+----------------------------------------------------------------
+4. STABLE DIFFUSION / AUTOMATIC1111
+----------------------------------------------------------------
+Nome: Guia de prompts Stable Diffusion (Stability AI)
+Link: https://platform.stability.ai/docs/getting-started/prompting
+
+Nome: Wiki da comunidade (muito completo)
+Link: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
+
+----------------------------------------------------------------
+5. OPENAI — Prompt Engineering
+----------------------------------------------------------------
+Nome: OpenAI Prompt Engineering Guide
+Link: https://platform.openai.com/docs/guides/prompt-engineering
+
+Nome: OpenAI Cookbook
+Link: https://cookbook.openai.com
+
+----------------------------------------------------------------
+6. GOOGLE — Guia de Prompting
+----------------------------------------------------------------
+Nome: Google Prompting Essentials / Gemini Guide
+Link: https://ai.google.dev/gemini-api/docs/prompting-strategies
+
+----------------------------------------------------------------
+7. RECURSOS COMPLEMENTARES
+----------------------------------------------------------------
+Nome: Learn Prompting (guia open source em português disponível)
+Link: https://learnprompting.org
+
+Nome: Awesome Prompts (repositório com prompts prontos)
+Link: https://github.com/f/awesome-chatgpt-prompts
+
+Nome: PromptHero (banco de prompts para imagem: MJ, SD, DALL-E)
+Link: https://prompthero.com
+
+Nome: Lexica.art (biblioteca de prompts Stable Diffusion)
+Link: https://lexica.art
+
+================================================================
+  DICA NOTEBOOKLM
+================================================================
+- Faça o download das páginas como PDF (Ctrl+P > Salvar como PDF)
+- Priorize: Anthropic Docs + promptingguide.ai + Midjourney Docs
+- Crie um notebook separado para "geração de imagem" e outro
+  para "LLMs/texto" para organizar melhor os estudos
+
+================================================================
